@@ -1,4 +1,4 @@
-/* eslint-disable 소히*/
+/* eslint-disable*/
 import React from "react";
 import "./App.css";
 import TodoList from "./components/pages/TodoList";
@@ -9,6 +9,7 @@ function App() {
     <div className="App">
       <p>안녕하세요 1조입니다.</p>
       <p>안녕하세요 호호호.</p>
+      <button>버튼</button>
       <TodoList></TodoList>
     </div>
   );
