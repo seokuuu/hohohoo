@@ -1,4 +1,4 @@
-/* eslint-disable */ 
+/* eslint-disable 클로로최고!*/ 
 import React from 'react';
 import './App.css';
 import TodoList from './components/pages/TodoList';
