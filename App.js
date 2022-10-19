@@ -1,4 +1,4 @@
-/* eslint-disable */
+/* eslint-disable 소히*/
 import React from "react";
 import "./App.css";
 import TodoList from "./components/pages/TodoList";
